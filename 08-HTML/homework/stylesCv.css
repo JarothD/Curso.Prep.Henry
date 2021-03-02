@@ -1,0 +1,42 @@
+#contenedor{
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: white; 
+    padding: 10px;;
+    text-align: center;
+    display: table-cell;
+    
+ 
+}
+#contenedor-principal{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: white; 
+    padding: 10px;;
+    text-align: center;
+    max-width: 1000px;
+    
+ 
+}
+#tabla{
+    max-width: 1000px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+    padding: 50px;;
+    
+}
+#foto{
+    max-height: 350px;
+    max-width: 350px;
+    padding: 100px;
+    margin: 0 auto;
+    position: relative;
+    display: block;
+}
+#main{
+    background-image: url("https://i.pinimg.com/564x/75/bf/1c/75bf1cfa78c77ce067e5985c12ee5bfa.jpg");
+
+    
+}

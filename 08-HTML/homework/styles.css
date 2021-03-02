@@ -5,9 +5,16 @@
     padding: 50px;
     border: red;
     border-radius: 50px;
+    display:block;
+  margin-left: auto;
+  margin-right: auto;
+    
 }
 #divClass{
-
+    max-width: 600px;
+  margin: 0 auto; 
+ 
+ 
 }
 #spanId{
     font-size: 18px;
@@ -21,6 +28,5 @@ img{
     
 }
 body{
-    align-items: center;
-    justify-content: center
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/548/165/non_2x/seamless-pattern-with-burger-on-a-white-background-vector-repeating-texture.jpg") ;
 }
