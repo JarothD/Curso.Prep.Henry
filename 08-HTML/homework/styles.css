@@ -10,7 +10,7 @@
   margin-right: auto;
     
 }
-#divClass{
+.divClass{
     max-width: 600px;
   margin: 0 auto; 
  
@@ -18,7 +18,7 @@
 }
 #spanId{
     font-size: 18px;
-    margin: 50px
+    margin: 10px
 }
 h1{
     color:lime;
